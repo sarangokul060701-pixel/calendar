@@ -5,7 +5,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.shankar"
+=======
+    namespace = "com.example.calendar"
+>>>>>>> 6b4ca9774465d973b1c57d987e2d42d93b8d8853
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -16,11 +20,22 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.example.shankar"
+=======
+        applicationId = "com.example.calendar"
+>>>>>>> 6b4ca9774465d973b1c57d987e2d42d93b8d8853
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
+<<<<<<< HEAD
+=======
+        // Uses the version code from pubspec.yaml. When using split APKs, 1000 * ABI_VERSION
+        // is added automatically by Flutter. (https://developer.android.com/studio/build/configure-apk-splits#configure-APK-versions)
+        // You can force using the value of versionCode by specifying the `-P force-version-code-ignoring-abi=true`
+        // flag during build.
+>>>>>>> 6b4ca9774465d973b1c57d987e2d42d93b8d8853
         versionCode = flutter.versionCode
         versionName = flutter.versionName
     }

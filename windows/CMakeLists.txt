@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(shankar LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "shankar")
+=======
+project(calendar LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "calendar")
+>>>>>>> 6b4ca9774465d973b1c57d987e2d42d93b8d8853
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

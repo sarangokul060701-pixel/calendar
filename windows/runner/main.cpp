@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"shankar", origin, size)) {
+=======
+  if (!window.Create(L"calendar", origin, size)) {
+>>>>>>> 6b4ca9774465d973b1c57d987e2d42d93b8d8853
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);

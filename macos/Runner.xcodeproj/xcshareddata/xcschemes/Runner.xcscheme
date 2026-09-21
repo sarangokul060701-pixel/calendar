@@ -15,7 +15,11 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                      BuildableName = "shankar.app"
+=======
+                     BuildableName = "calendar.app"
+>>>>>>> 6b4ca9774465d973b1c57d987e2d42d93b8d8853
                      BlueprintName = "Runner"
                      ReferencedContainer = "container:Runner.xcodeproj">
                   </BuildableReference>
@@ -33,7 +37,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "shankar.app"
+=======
+               BuildableName = "calendar.app"
+>>>>>>> 6b4ca9774465d973b1c57d987e2d42d93b8d8853
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -49,7 +57,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "shankar.app"
+=======
+            BuildableName = "calendar.app"
+>>>>>>> 6b4ca9774465d973b1c57d987e2d42d93b8d8853
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -84,7 +96,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "shankar.app"
+=======
+            BuildableName = "calendar.app"
+>>>>>>> 6b4ca9774465d973b1c57d987e2d42d93b8d8853
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -101,7 +117,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "shankar.app"
+=======
+            BuildableName = "calendar.app"
+>>>>>>> 6b4ca9774465d973b1c57d987e2d42d93b8d8853
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

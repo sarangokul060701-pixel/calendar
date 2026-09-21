@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "shankar",
     "short_name": "shankar",
+=======
+    "name": "calendar",
+    "short_name": "calendar",
+>>>>>>> 6b4ca9774465d973b1c57d987e2d42d93b8d8853
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
